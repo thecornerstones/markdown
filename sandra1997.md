@@ -1,15 +1,16 @@
-#Psychoanalytische Trieblehre
+# Psychoanalytische Trieblehre
 
-##Begründer: Sigmund Freud
+## Begründer: Sigmund Freud
 **Sigmund Freud** (** 6. Mai 1856* in Freiberg in Mähren, als Sigismund Schlomo Freud; *† 23. September 1939* in London) war ein österreichischer Neurologe, Tiefenpsychologe, Kulturtheoretiker und Religionskritiker. Er war der Begründer der Psychoanalyse und gilt als einer der einflussreichsten Denker des 20. Jahrhunderts. Seine Theorien und Methoden werden bis heute diskutiert und angewendet.
 
 
-###Das Instanzenmodell
+### Das Instanzenmodell
+
 **Es**: Das Es ist von Geburt an vorhanden und zuständig für alle 	Triebe und Wünsche des Menschen 
 *-> Lustprinzip*
 
 
-###Abwehrmechanismen
+### Abwehrmechanismen
 
 * Verschiebung
 	* unbefriedigte Gefühle und Bedürfnisse werden auf eine andere Person verschoben
@@ -25,14 +26,14 @@
 	* Sie besteht in der Übernahme der Normen und Wertvorstellungen einer anderen Person, meist einer Elternfigur. Dies ist wichtig für die Herausbildung der kindlichen Persönlichkeit. Das Kind versucht die wichtigsten Eigenschaften des beneideten Elternteils zu übernehmen, um sich so mit ihm zu identifizieren, was durch erotische und kraftvolle Eigenschaften des gleichgeschlechtlichen Rivalen unterstützt.
 
 
-###Lebenstrieb (Libido) Entwicklung
+### Lebenstrieb (Libido) Entwicklung
 -------------------------------------
 1. Orale Phase
 2. Anale Phase 
 3. Phallische Phase
 
 
-###Psychoanalyse
+### Psychoanalyse
 
 > Anamese: Generelle Befragung zum allgemeinen Lebenslauf
 > 
