@@ -9,6 +9,12 @@
 **Es**: Das Es ist von Geburt an vorhanden und zuständig für alle 	Triebe und Wünsche des Menschen 
 *-> Lustprinzip*
 
+**Ich**: Das Ich versucht zwischen dem Es, dem Über-Ich und der Ralität zu vermitteln und Idealfalls eine Geeignete Lösung zu finden.
+*-> Realtiätsprinzip*
+
+**Über-Ich**: Das Über-Ich kommt im Laufe der Entwicklung dazu und bewertetdie Triebwünsche des es, ob diese zugelassen werden oder nicht.
+*-> Moralitätsprinzip*
+
 
 ### Abwehrmechanismen
 
@@ -25,7 +31,7 @@
 * Identifizierung 
 	* Sie besteht in der Übernahme der Normen und Wertvorstellungen einer anderen Person, meist einer Elternfigur. Dies ist wichtig für die Herausbildung der kindlichen Persönlichkeit. Das Kind versucht die wichtigsten Eigenschaften des beneideten Elternteils zu übernehmen, um sich so mit ihm zu identifizieren, was durch erotische und kraftvolle Eigenschaften des gleichgeschlechtlichen Rivalen unterstützt.
 
-
+-------------------------------------
 ### Lebenstrieb (Libido) Entwicklung
 -------------------------------------
 1. Orale Phase
