@@ -4,7 +4,7 @@
 **Sigmund Freud** (** 6. Mai 1856* in Freiberg in Mähren, als Sigismund Schlomo Freud; *† 23. September 1939* in London) war ein österreichischer Neurologe, Tiefenpsychologe, Kulturtheoretiker und Religionskritiker. Er war der Begründer der Psychoanalyse und gilt als einer der einflussreichsten Denker des 20. Jahrhunderts. Seine Theorien und Methoden werden bis heute diskutiert und angewendet.
 
 
-### Das Instanzenmodell
+## Das Instanzenmodell
 
 **Es**: Das Es ist von Geburt an vorhanden und zuständig für alle 	Triebe und Wünsche des Menschen 
 *-> Lustprinzip*
@@ -33,7 +33,7 @@
 3. Phallische Phase
 
 
-### Psychoanalyse
+## Psychoanalyse
 
 > Anamese: Generelle Befragung zum allgemeinen Lebenslauf
 > 
