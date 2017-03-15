@@ -41,6 +41,13 @@
 
 Vorgehen
 ------------------------------------
+1. Freie Assoziation
+2. Tramdeutung
+3. Deutung
+4. Übertragung und Gegenübertragung
+5. Eröffnung
+
+
 
 
 
