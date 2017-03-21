@@ -1,2 +1,0 @@
-# markdown
-Erste Markdown Übungen 
