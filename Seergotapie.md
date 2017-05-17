@@ -12,3 +12,4 @@ Es gibt keine Hinweise darauf, dass diese Wahl des Buchstabens e {\displaystyle 
 * der Glockenkurve in der Statistik, der Form eines hängenden Kabels oder einem stehenden Bogen gefunden. e zeigt sich auch in einigen Problemen der Wahrscheinlichkeitsrechnung und der Primzahlenverteilung.
 * Auf dem Gebiet der Werkstoffprüfung im Ingenieurswesen wird in den Formeln, wie sie z.B. in den Formeln der Ultraschalldämpfung verwendet werden, reger Gebrauch der Zahl e gemacht.
 * Basis des natürlichen Logarithmus
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
